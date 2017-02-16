@@ -1,3 +1,12 @@
+#Install Older Version of Kodi:
+sudo add-apt-repository ppa:team-xbmc/kodi-old
+
+sudo apt-get update
+
+apt-cache showpkg kodi
+
+sudo apt-get install kodi=2:16.* kodi-bin=2:16.*
+
 [![Build Status](https://travis-ci.org/xbmc/xbmc.svg?branch=master)](https://travis-ci.org/xbmc/xbmc)
 [![Documentation](https://codedocs.xyz/xbmc/xbmc.svg)](https://codedocs.xyz/xbmc/xbmc/)
 
