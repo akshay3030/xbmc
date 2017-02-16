@@ -7,6 +7,8 @@ apt-cache showpkg kodi
 
 sudo apt-get install kodi=2:16.* kodi-bin=2:16.*
 
+version I intalled: 2:16.1~git20160425.1001-final-0xenial
+
 [![Build Status](https://travis-ci.org/xbmc/xbmc.svg?branch=master)](https://travis-ci.org/xbmc/xbmc)
 [![Documentation](https://codedocs.xyz/xbmc/xbmc.svg)](https://codedocs.xyz/xbmc/xbmc/)
 
